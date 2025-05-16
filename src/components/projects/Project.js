@@ -41,7 +41,7 @@ function Project (){
                 <div className="project-item">
                    <img src={image6} alt="Project 1"  />
                   
-                </div>Hello. Hello. I. 
+                </div>
                 
             </div>
         </div>
